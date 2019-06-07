@@ -17,6 +17,6 @@
 
 ### Requirements
 * Python >= 3.6
-* TensorFlow == 2.00
+* TensorFlow == 2.0.0
 
 本repo翻译自[transformer_chatbot](https://github.com/tensorflow/examples/blob/master/community/en/transformer_chatbot.ipynb).
