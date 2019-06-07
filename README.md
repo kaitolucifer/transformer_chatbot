@@ -20,3 +20,5 @@
 * TensorFlow == 2.0.0
 
 本repo翻译自[transformer_chatbot](https://github.com/tensorflow/examples/blob/master/community/en/transformer_chatbot.ipynb).
+推荐阅读[Attention Is All You Need](https://arxiv.org/abs/1706.03762)论文后学习本教程。
+需要的预备知识：文本生成（RNN语言模型等）, 注意力机制（attention）等。
